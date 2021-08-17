@@ -1,0 +1,5 @@
+Para rodar o projeto acesse a pasta do back e rode os seguintes comandos:
+npm install
+npm start
+
+Com eles rodados, acesse a pasta do front e abra o arquivo index.html
